@@ -14,7 +14,7 @@ class point {
     double y()  {
         return _y;
     }
-    bool cpm(point &p) ;
+    bool cpm(point &p);
        
   
 };
