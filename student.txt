@@ -1,0 +1,10 @@
+Alice    18   78  99  67
+Bob      19   88  92  86
+Cristin  18   81  79  98
+David    19   89  95  97
+Eddie    19   91  94  95
+Franc    18   77  89  83
+George   19   71  76  85
+Hellion  19   76  85  93
+Inova    18   87  83  91
+Jack 	 19   87  97  84
